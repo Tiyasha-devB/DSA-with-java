@@ -21,6 +21,7 @@ public class singly_insertion1 {
         // Make the next of the new node point to the
         // current head
         new_node.next = head;
+        head = new_node;
 
         // Return the new node as the new head of the list
         return new_node;
