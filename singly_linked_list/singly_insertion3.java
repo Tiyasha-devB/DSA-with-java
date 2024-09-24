@@ -50,7 +50,6 @@ public class singly_insertion3 {
         head.next = new Node(2);
         head.next.next = new Node(3);
         head.next.next.next = new Node(4);
-        
 
         int newData = 6;
         int key = 2;
