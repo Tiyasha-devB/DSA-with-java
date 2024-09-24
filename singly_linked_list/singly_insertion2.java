@@ -10,6 +10,10 @@ class Node {
 }
 public class singly_insertion2 {
     static Node insertAfterNode(Node head, int key, int newData) {
+        
+        if (head == null){
+            return null;
+        }
         Node curr = head;
         while (curr != null)
         {
