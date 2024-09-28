@@ -9,6 +9,6 @@ Singly linked List:-
 5)Add at Specific Position
 
 1)Delete at Beginning
-2)
-3)
+2)Delete at End
+3)Delete from a specific position
 

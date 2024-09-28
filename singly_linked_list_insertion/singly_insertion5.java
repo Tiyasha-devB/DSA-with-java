@@ -15,7 +15,7 @@ public class singly_insertion5 {
             return null;
 
         Node newNode = new Node(newData);
-        if (pos == 0){
+        if (pos == 1){
             newNode.next = head;
             head = newNode;
             return head;
