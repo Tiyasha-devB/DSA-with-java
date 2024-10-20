@@ -1,4 +1,5 @@
 //Insert at the begginning of a list
+
 class Node {
     int data;
     Node next;
